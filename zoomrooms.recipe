@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
     <key>Description</key>
-    <string>Downloads the latest version of Zoom.</string>
+    <string>Downloads the latest version of ZoomRooms.</string>
     <key>Identifier</key>
-    <string>com.github.trekkim.download.zoom</string>
+    <string>com.github.trekkim.zoomrooms.zoomrooms</string>
     <key>Input</key>
     <dict>
         <key>NAME</key>
